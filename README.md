@@ -22,3 +22,8 @@ Here you can find all of the weekly exercises. Please refer to the readmes insid
 [![Screenshot](https://raw.githubusercontent.com/jduust/mini-ex/master/mini_ex4/screenshot.PNG)](https://rawgit.com/jduust/mini-ex/master/mini_ex4/index.html)
 
 [Try it out here](https://rawgit.com/jduust/mini-ex/master/mini_ex4/index.html) - Requires access to your webcam and microphone
+
+## Mini Exercise 5
+[![Screenshot](https://raw.githubusercontent.com/jduust/mini-ex/master/mini_ex5/screenshot.PNG)](https://rawgit.com/jduust/mini-ex/master/mini_ex5/index.html)
+
+[Try it out here](https://rawgit.com/jduust/mini-ex/master/mini_ex5/index.html) - Use arrow keys up/down to play the game
