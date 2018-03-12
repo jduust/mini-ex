@@ -10,7 +10,7 @@ The most annoying problem i had, was trying to use the keyIsDown command, for us
 
 You control the guy (see mini_ex2 for context about the wolf and the guy) using up and down arrow keys, trying to avoid the wolves. Hitting a wolf will get you eaten, and end the game, so you have to start the game over again. The wolves are drawn every second, and by assigning them to a group, i can make an if rule if it collides, applying to all the wolves, so i only have to write one line of code, isntead of say 6 lines of codes (one for every wolf)
 
-##More text is coming soon
+## More text is coming soon
 
-###Libraries
+### Libraries
 Complete p5 library, with the extension of p5.play
