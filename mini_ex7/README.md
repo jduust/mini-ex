@@ -15,3 +15,90 @@ But staring at a white canvas would probably confuse a lot of people, so we deci
 What people don't realize, is that the program is actually running, executing the lyrics, and completing it's task. It's just weird for most people (myself included), knowing that a program is running, but it's not resulting in anything you can interact with, or any visual feedback. It isn't saving anything on your computer, or generating/computing something "useful". I think it's a nice "upside-down" world to have the video playing and singing the lyrics while the our program is running it in the background, independently. 
 
 This is interesting also in terms of Cox and McLeans point about codes primary function is to be executed by computers, and secondly to be understood by humans. A computer doesn't have to understand in the same way we do, as long as it can execute it without errors, it does so, without questions. I always feel the need to understand the code, so this exercise really took a toll on me in the beginning, but in the end i understood the purpose.
+
+## The code
+
+<pre>
+var old = 99;
+var verse = 0;
+var homex = 0;
+var homey = 0;
+var oldman = 0;
+
+function setup () {
+  createCanvas(5, 5);
+}
+
+function hePlays(number) {
+    verse = number
+  }
+
+function draw () {
+this.man = old;
+hePlays(1)
+knickknack('thumb','my')
+knickknackpaddywack('bone','dog')
+oldman.position = homex, homey
+
+this.man = old;
+hePlays(2);
+knickknack('shoe','my')
+knickknackpaddywack('bone','dog')
+oldman.position = homex, homey
+
+this.man = old;
+hePlays(3);
+knickknack('knee','my')
+knickknackpaddywack('bone','dog')
+oldman.position = homex, homey
+
+this.man = old;
+hePlays(4);
+knickknack('door','my')
+knickknackpaddywack('bone','dog')
+oldman.position = homex, homey
+
+this.man = old;
+hePlays(5);
+//knickknack('hive','that')
+knickknackpaddywack('bone','dog')
+oldman.position = homex, homey
+
+this.man = old;
+hePlays(6);
+knickknack('sticks','my')
+knickknackpaddywack('bone','dog')
+oldman.position = homex, homey
+
+this.man = old;
+hePlays(7);
+knickknack('heaven')
+knickknackpaddywack('bone','dog')
+oldman.position = homex, homey
+
+this.man = old;
+hePlays(8);
+knickknack('gate','my')
+knickknackpaddywack('bone','dog')
+oldman.position = homex, homey
+
+this.man = old;
+hePlays(9);
+knickknack('vine','my')
+knickknackpaddywack('bone','dog')
+oldman.position = homex, homey
+
+this.man = old;
+hePlays(10);
+knickknack('repeat')
+knickknackpaddywack('bone','dog')
+oldman.position = homex, homey
+}
+
+function knickknackpaddywack (object,receiver) {
+  receiver = object
+}
+function knickknack (object, receiver) {
+  receiver = object
+}
+</pre>
