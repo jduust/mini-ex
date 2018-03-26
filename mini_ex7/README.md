@@ -16,7 +16,7 @@ What people don't realize, is that the program is actually running, executing th
 
 This is interesting also in terms of Cox and McLeans point about codes primary function is to be executed by computers, and secondly to be understood by humans. A computer doesn't have to understand in the same way we do, as long as it can execute it without errors, it does so, without questions. I always feel the need to understand the code, so this exercise really took a toll on me in the beginning, but in the end i understood the purpose.
 
-## The code
+## The code - [See the actual lyrics here](https://kidsongs.com/lyrics/this-old-man.html)
 
 <pre>
 var old = 99;
