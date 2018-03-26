@@ -14,7 +14,6 @@ MORE TEXT TO COME
 
 | Original verse | Our code |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| This old man, he plays one He plays knick knack on my thumb With a knick knack paddy wack Give a dog a bone This old man comes rolling home | this.man = old; 
-hePlays(1) knickknack('thumb','my') knickknackpaddywack('bone','dog') oldman.position = homex, homey |
+| This old man, he plays one He plays knick knack on my thumb With a knick knack paddy wack Give a dog a bone This old man comes rolling home | this.man = old; hePlays(1) knickknack('thumb','my') knickknackpaddywack('bone','dog') oldman.position = homex, homey |
 | This old man, he plays five Don't play knick knack on that hive With a knick knack paddy wack  Give a dog a bone This old man comes rolling home | this.man = old; hePlays(5); //knickknack('hive','that') knickknackpaddywack('bone','dog') oldman.position = homex, homey |
 | This old man, he plays ten He plays knick knack all over again With a knick knack paddy wack Give a dog a bone This old man comes rolling home | this.man = old; hePlays(10); knickknack('repeat') knickknackpaddywack('bone','dog') oldman.position = homex, homey |
