@@ -5,7 +5,7 @@
 
 ### Flowchart of mini_ex5 (individual)
 
-![mini ex 5 flowchart](https://github.com/jduust/mini_ex/blob/master/mini_ex9/mini_ex5%20flowchart.jpg?raw=true)
+![mini ex 5 flowchart](https://github.com/jduust/mini-ex/blob/master/mini_ex9/mini_ex5%20flowchart.jpg?raw=true)
 
 [mini_ex5](https://github.com/jduust/mini-ex/tree/master/mini_ex5)
 
@@ -25,12 +25,12 @@ Our ideas strives from a program that removes adjectives, to one that neutralize
 
 The flowchart we have made for this idea is based on an algorithm that is supposed to get the news articles from a website, analyse the text for adjectives and then remove them. When the program as gone through the whole text it shal print the new and changed article.
 
-![final project](https://github.com/jduust/mini_ex/blob/master/mini_ex9/Flowchart(1).jpg?raw=true)
+![final project](https://github.com/jduust/mini-ex/blob/master/mini_ex9/Flowchart(1).jpg?raw=true)
 
 **The second idea and flowchart:**
 Our idea for the second flowchart is in the same category as our first idea. Instead of a program that removes adjectives, we want this program to have an input field where you can write different words you don’t want to read articles about. So like our first idea the program will get an article or some other content from a website, and then analyse the content for the keywords that you didn’t want to see. This program gives the users some control of what they are going to look at online by choosing what not to see. 
 
-![second idea](https://github.com/jduust/mini_ex/blob/master/mini_ex9/Flowchart(2).jpg?raw=true)
+![second idea](https://github.com/jduust/mini-ex/blob/master/mini_ex9/Flowchart(2).jpg?raw=true)
 
 
 ###How is this flow chart different from the one that you had in #2 (in terms of the role of a flow chart)?
