@@ -33,7 +33,7 @@ Our idea for the second flowchart is in the same category as our first idea. Ins
 ![second idea](https://github.com/jduust/mini-ex/blob/master/mini_ex9/Flowchart(2).jpg?raw=true)
 
 
-###How is this flow chart different from the one that you had in #2 (in terms of the role of a flow chart)?
+### How is this flow chart different from the one that you had in #2 (in terms of the role of a flow chart)?
 I'm not sure about this question exactly, if it's between the first idea and the second idea, the difference is that in the first we would make a fixed template for the program that it would executer regardless of user prefernce. It would therefore also often result in nonsense, by removing all adjectives from for example a news article. We also thought about implementing a few keywords it would replace automatically, like changing he/she to 'this person', or race to 'human'. 
 
 This sort of leads us to our second idea, or our second flowchart, which allows the user to write keywords themselves, and if the plugin finds these keywords, they will completely remove all elements with the keywords in them. This is more like censoring completely, so if you're tired of hearing about trump, you could remove all news headlines about him on your news site. It's different in the way that it doesn't just replace the words, it completely removes all elements that are tied to it.
