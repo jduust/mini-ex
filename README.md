@@ -42,3 +42,8 @@ Here you can find all of the weekly exercises. Please refer to the readmes insid
 [![Screenshot](https://raw.githubusercontent.com/jduust/mini-ex/master/mini_ex8/screenshot.PNG)](https://rawgit.com/jduust/mini-ex/master/mini_ex8/index.html)
 
 [Try it out here](https://rawgit.com/jduust/mini-ex/master/mini_ex8/index.html)
+
+## Mini Exercise 9
+[![Screenshot](https://github.com/jduust/mini-ex/blob/master/mini_ex9/mini_ex5%20flowchart.jpg?raw=true)](https://rawgit.com/jduust/mini-ex/master/mini_ex9)
+
+[Read about it here](https://rawgit.com/jduust/mini-ex/master/mini_ex9)
